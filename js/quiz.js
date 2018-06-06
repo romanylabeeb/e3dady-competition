@@ -1,4 +1,5 @@
 (function () {
+  //  git subtree push --prefix dist origin gh-pages
 
   var app = angular.module('quizApp', []);
 
